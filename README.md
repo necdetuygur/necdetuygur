@@ -1,15 +1,3 @@
-<style>
-  body {
-    font-family: arial;
-  }
-  .page-break {
-    page-break-after: always;
-  }
-  table, td, th {
-    border: none !important;
-  }
-</style>
-
 <center><h1>Necdet UYGUR</h1></center>
 
 <table border="0">
