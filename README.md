@@ -17,7 +17,7 @@ GitHub: [**https://git.io/necdetuygur**](https://git.io/necdetuygur)
 I'm experienced in\
 C#, MSSQL, .NET,\
 Linux (CentOS & Ubuntu), MySQL, PHP,\
-NodeJS, JavaScript, React,\
+NodeJS, JavaScript, React, Angular,\
 Back-end ve Front-end software technologies.
 
 ### Works
