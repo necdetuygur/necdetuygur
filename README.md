@@ -18,7 +18,7 @@ I'm experienced in\
 C#, MSSQL, .NET,\
 Linux (CentOS & Ubuntu), MySQL, PHP,\
 NodeJS, JavaScript, React, Angular,\
-Back-end ve Front-end software technologies.
+Back-end and Front-end software technologies.
 
 ### Works
 
