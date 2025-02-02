@@ -132,11 +132,11 @@ Angular
 
 Arduino
 
-ASP.NET Core
+ASP .NET Core
 
-ASP.NET MVC
+ASP .NET MVC
 
-ASP.NET Web API
+ASP .NET Web API
 
 Bootstrap
 
@@ -160,7 +160,7 @@ Firebase
 
 Flutter
 
-Socket.io
+Socket IO
 
 Back-End Development
 
