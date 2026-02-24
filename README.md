@@ -8,17 +8,15 @@
 <td valign="top">
 
 Title: **Senior Full Stack Developer - Senior Software Specialist**\
-Languages: **Turkish (Native Language), English (Intermediate Proficiency)**\
+Working Model: **Remote**\
+Languages: **Turkish** (**Native Language**)**,** **English** (**Intermediate Proficiency**)\
 LinkedIn: [**https://linkedin.com/in/necdetuygur**](https://linkedin.com/in/necdetuygur)\
 GitHub: [**https://git.io/necdetuygur**](https://git.io/necdetuygur)
 
+
 </td></tr></table>
 
-I'm experienced in\
-C#, MSSQL, .NET,\
-Linux (CentOS & Ubuntu), MySQL, PHP,\
-NodeJS, JavaScript, React, Angular,\
-Back-end and Front-end software technologies.
+I'm Senior Full Stack Developer experienced in data-oriented projects with Angular and C#. Focused on clean code and sustainable architecture. Professionally working with JavaScript since 2009.
 
 ### Works
 
@@ -39,7 +37,8 @@ Back-end and Front-end software technologies.
 - FTP server setup and configuration
 - Google AdWords Management
 - IoT Device Simulator (IoT Electronic Card Payload Simulator)
-- Linux (CentOS and Ubuntu) Server Systems (Advanced Installation, Maintenance and Management)
+- Linux Server Administration (Advanced Installation, Maintenance, and Management)
+- CI/CD: Git, GitLab, Docker, Docker Compose, Coolify
 - Raspberry PI, Arduino (Electrical Automation)
 - IMSI Catcher System from RF Signal
 - Programs for programming and configuring electronic boards with HEX data transfer from Serial Port
@@ -92,6 +91,7 @@ Back-end and Front-end software technologies.
 
 ### Development Environments
 
+- Visual Studio Code
 - IntelliJ Idea
 - PhpStorm
 - WebStorm
@@ -101,7 +101,6 @@ Back-end and Front-end software technologies.
 - Microsoft Visual Studio
 - Aqua Data Studio
 - Android Studio
-- Visual Studio Code
 - Sublime Text
 
 </td>
@@ -109,6 +108,7 @@ Back-end and Front-end software technologies.
 </table>
 
 <div class="page-break"></div>
+
 
 ### Used Technologies
 
@@ -146,11 +146,13 @@ CentOS
 
 CSS
 
+Tailwind
+
 Dapper ORM
 
 Dart
 
-Docker
+Docker / Docker Compose
 
 Entity Framework
 
@@ -162,7 +164,7 @@ Flutter
 
 Socket IO
 
-Back-End Development
+<!-- Back-End Development -->
 
 </td>
 <td valign="top">
@@ -186,6 +188,8 @@ jQuery
 JSON
 
 JWT (JSON Web Tokens)
+
+OAuth2
 
 Language Integrated Query (LINQ)
 
@@ -211,9 +215,13 @@ MongoDB
 
 MSSQL
 
+PostgreSQL
+
 MySQL
 
-Front-End Development
+Redis
+
+<!-- Front-End Development -->
 
 </td>
 <td valign="top">
@@ -232,13 +240,21 @@ Photoshop
 
 PHP
 
+Slim Framework
+
 Push Notification Services
 
 Python
 
+Flask
+
+FastAPI
+
 React.js
 
 Redux
+
+Zustand
 
 Redux Thunk
 
@@ -264,7 +280,7 @@ Vue.js
 
 Web Development
 
-Full-Stack Development
+<!-- Full-Stack Development -->
 
 </td>
 </tr>
