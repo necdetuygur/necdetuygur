@@ -9,6 +9,11 @@ I actively contribute to corporate and scalable software projects across both fr
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/necdetuygur) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://git.io/necdetuygur)
+[![Threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=threads&logoColor=white)](https://www.threads.net/@necdetuygur) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/necdetuygur) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/necdetuygur) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@necdetuygur) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/necdetuygur)
+
+> *Kurucusu, yöneticisi ve tüm hak sahibi: **Necdet UYGUR** ❯*
+
+[![MeftunTech](https://img.shields.io/badge/MeftunTech-121011?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=MeftunTech) [![meftuntech.com](https://img.shields.io/badge/meftuntech.com-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://meftuntech.com)
 
 ## 💻 Tech Stack
 
