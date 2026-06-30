@@ -141,6 +141,6 @@ Actively contributed to corporate and scalable software projects across both fro
 ## 📊 GitHub Stats
 
 <p align=center>
-  <img src="./profile/stats.svg">
-  <img src="./profile/top-langs.svg">
+  <!-- START_STATS -->
+  <!-- END_STATS -->
 </p>
