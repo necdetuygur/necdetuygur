@@ -113,25 +113,25 @@ I actively contribute to corporate and scalable software projects across both fr
 
 ## 🏢 Experience
 
-### Advanced Dynamics GmbH — *Senior Software Developer, Full Stack Developer, Analyst*
+### ******** ******** GmbH - *Senior Software Developer, Full Stack Developer, Analyst*
 *May 2023 – Feb 2026 | Remote / Germany*
 
 Actively contributed to corporate and scalable software projects across both frontend and backend. Designed and developed microservice architectures, high-traffic systems, and modern web applications. Took ownership of business analysis, software architecture design, development, testing, and deployment processes. Led code review practices and implemented performance and security-focused improvements.
 
-### ÜNİPA — *Software Specialist, Analyst, Developer, Tester*
+### ***** - *Software Specialist, Analyst, Developer, Tester*
 *Dec 2019 – Jul 2022 | Bornova / İzmir*
 
-### NetOP Teknoloji — *Software Specialist, Analyst, Developer, Tester, Documentation Specialist*
+### ***** ********* - *Software Specialist, Analyst, Developer, Tester, Documentation Specialist*
 *Jun 2018 – Apr 2019 | Bornova / İzmir*
 
-### TelekomONE (Turkcell Superonline) — *Software Specialist, Analyst, Developer, Tester*
+### ********** ********* ************ - *Software Specialist, Analyst, Developer, Tester*
 *Nov 2015 – Jun 2018 | Basmane / İzmir*
 
 ## 🎓 Education
 
-- **Eskişehir Anadolu University** — Management Information Systems (*Graduated 2023*)
-- **Dumlupınar University** — Computer Technology and Programming (*Graduated 2015, Ranked 1st in Department*)
-- **Tavşanlı Technical and Industrial Vocational High School** — Information Technologies (*Graduated 2013, Ranked 1st in Department*)
+- **Eskişehir Anadolu University** - Management Information Systems (*Graduated 2023*)
+- **Dumlupınar University** - Computer Technology and Programming (*Graduated 2015, Ranked 1st in Department*)
+- **Tavşanlı Technical and Industrial Vocational High School** - Information Technologies (*Graduated 2013, Ranked 1st in Department*)
 
 ## 🚀 Major Projects
 
